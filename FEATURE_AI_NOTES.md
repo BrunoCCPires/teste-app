@@ -1,0 +1,1 @@
+Basic test app with a name input form that displays a greeting. Uses existing project structure and styling conventions.
